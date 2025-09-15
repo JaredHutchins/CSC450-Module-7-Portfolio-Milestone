@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+HaloCountdown
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# VSCode settings
+.vscode/
+
+# Docs and screenshots (local use only)
+*.docx
+*.png
+*.jpg
+*.jpeg
